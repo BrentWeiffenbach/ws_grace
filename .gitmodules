@@ -1,0 +1,70 @@
+[submodule "aws-robomaker-small-house-world"]
+	path = aws-robomaker-small-house-world
+	url = https://github.com/aws-robotics/aws-robomaker-small-house-world.git
+    ignore = dirty
+[submodule "geometric_shapes"]
+	path = geometric_shapes
+	url = https://github.com/moveit/geometric_shapes.git
+    ignore = dirty
+[submodule "grace_arm_config"]
+	path = grace_arm_config
+	url = https://github.com/BrentWeiffenbach/grace_arm_config.git
+[submodule "grace_arm_description"]
+	path = grace_arm_description
+	url = https://github.com/BrentWeiffenbach/grace_arm_description.git
+[submodule "grace_description"]
+	path = grace_description
+	url = https://github.com/BrentWeiffenbach/grace_description.git
+[submodule "kobuki_msgs"]
+	path = kobuki_msgs
+	url = https://github.com/yujinrobot/kobuki_msgs.git
+    ignore = dirty
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/moveit/moveit.git
+    ignore = dirty
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	url = https://github.com/moveit/moveit_msgs.git
+    ignore = dirty
+[submodule "moveit_resources"]
+	path = moveit_resources
+	url = https://github.com/moveit/moveit_resources.git
+    ignore = dirty
+[submodule "moveit_tutorials"]
+	path = moveit_tutorials
+	url = https://github.com/moveit/moveit_tutorials.git
+    ignore = dirty
+[submodule "moveit_visual_tools"]
+	path = moveit_visual_tools
+	url = https://github.com/moveit/moveit_visual_tools.git
+    ignore = dirty
+[submodule "panda_moveit_config"]
+	path = panda_moveit_config
+	url = https://github.com/moveit/panda_moveit_config.git
+    ignore = dirty
+[submodule "rviz_visual_tools"]
+	path = rviz_visual_tools
+	url = https://github.com/PickNikRobotics/rviz_visual_tools
+    ignore = dirty
+[submodule "srdfdom"]
+	path = srdfdom
+	url = https://github.com/moveit/srdfdom
+[submodule "turtlebot"]
+	path = turtlebot
+	url = https://github.com/turtlebot/turtlebot.git
+    ignore = dirty
+[submodule "turtlebot_apps"]
+	path = turtlebot_apps
+	url = https://github.com/BrentWeiffenbach/turtlebot_apps.git
+[submodule "turtlebot_interactions"]
+	path = turtlebot_interactions
+	url = https://github.com/BrentWeiffenbach/turtlebot_interactions.git
+[submodule "turtlebot_msgs"]
+	path = turtlebot_msgs
+	url = https://github.com/turtlebot/turtlebot_msgs.git
+    ignore = dirty
+[submodule "turtlebot_simulator"]
+	path = turtlebot_simulator
+	url = https://github.com/turtlebot/turtlebot_simulator.git
+    ignore = dirty
