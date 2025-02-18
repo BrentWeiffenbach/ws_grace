@@ -5,8 +5,8 @@
     version: noetic-devel
 - git:
     local-name: moveit
-    uri: https://github.com/moveit/moveit.git
-    version: master
+    uri: https://github.com/BrentWeiffenbach/moveit_planar_modification.git
+    version: main
 - git:
     local-name: moveit_msgs
     uri: https://github.com/moveit/moveit_msgs.git

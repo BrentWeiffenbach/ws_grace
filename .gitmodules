@@ -15,6 +15,9 @@
 [submodule "grace_description"]
 	path = grace_description
 	url = https://github.com/BrentWeiffenbach/grace_description.git
+[submodule "grace_arm_control"]
+	path = grace_arm_control
+	url = https://github.com/BrentWeiffenbach/grace_arm_control.git
 [submodule "moveit_planar_execution"]
 	path = moveit_planar_execution
 	url = https://github.com/BrentWeiffenbach/moveit_planar_execution.git
