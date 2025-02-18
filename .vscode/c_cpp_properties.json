@@ -1,47 +1,51 @@
 {
-  "configurations": [
-    {
-      "browse": {
-        "databaseFilename": "${default}",
-        "limitSymbolsToIncludedHeaders": false
-      },
-      "includePath": [
-        "/home/brent/ws_grace/devel/include/**",
-        "/opt/ros/melodic/include/**",
-        "/home/brent/ompl-1.6.0/install/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
-        "/home/brent/ws_grace/src/geometric_shapes/include/**",
-        "/home/brent/ws_grace/src/kobuki_bumper2pc/include/**",
-        "/home/brent/ws_grace/src/kobuki_gazebo_plugins/include/**",
-        "/home/brent/ws_grace/src/kobuki_keyop/include/**",
-        "/home/brent/ws_grace/src/kobuki_node/include/**",
-        "/home/brent/ws_grace/src/kobuki_safety_controller/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
-        "/home/brent/ws_grace/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_ros/benchmarks/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_ros/move_group/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_ros/robot_interaction/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_ros/moveit_servo/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_setup_assistant/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
-        "/home/brent/ws_grace/src/moveit_visual_tools/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
-        "/home/brent/ws_grace/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
-        "/home/brent/ws_grace/src/rviz_visual_tools/include/**",
-        "/home/brent/ws_grace/src/srdfdom/include/**",
-        "/home/brent/ws_grace/src/turtlebot_apps/turtlebot_actions/include/**",
-        "/home/brent/ws_grace/src/yocs_cmd_vel_mux/include/**",
-        "/home/brent/ws_grace/src/yocs_controllers/include/**",
-        "/usr/include/**"
-      ],
-      "name": "ROS",
-      "intelliSenseMode": "gcc-x64",
-      "compilerPath": "/usr/bin/gcc",
-      "cStandard": "gnu11",
-      "cppStandard": "c++14"
-    }
-  ],
-  "version": 4
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/brent/ws_grace/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/brent/ompl-1.6.0/install/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+                "/home/brent/ws_grace/src/geometric_shapes/include/**",
+                "/home/brent/ws_grace/src/kobuki_bumper2pc/include/**",
+                "/home/brent/ws_grace/src/kobuki_gazebo_plugins/include/**",
+                "/home/brent/ws_grace/src/kobuki_keyop/include/**",
+                "/home/brent/ws_grace/src/kobuki_node/include/**",
+                "/home/brent/ws_grace/src/kobuki_safety_controller/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+                "/home/brent/ws_grace/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_ros/benchmarks/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_ros/move_group/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_ros/robot_interaction/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_ros/moveit_servo/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_setup_assistant/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+                "/home/brent/ws_grace/src/moveit_visual_tools/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+                "/home/brent/ws_grace/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+                "/home/brent/ws_grace/src/rviz_visual_tools/include/**",
+                "/home/brent/ws_grace/src/srdfdom/include/**",
+                "/home/brent/ws_grace/src/turtlebot_apps/turtlebot_actions/include/**",
+                "/home/brent/ws_grace/src/yocs_cmd_vel_mux/include/**",
+                "/home/brent/ws_grace/src/yocs_controllers/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/moveit/moveit_core/controller_manager/include",
+                "${workspaceFolder}/**",
+                "/home/brent/ws_grace/src/moveit/moveit_core/macros/include",
+                "/opt/ros/melodic/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
 }

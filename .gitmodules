@@ -15,14 +15,16 @@
 [submodule "grace_description"]
 	path = grace_description
 	url = https://github.com/BrentWeiffenbach/grace_description.git
+[submodule "moveit_planar_execution"]
+	path = moveit_planar_execution
+	url = https://github.com/BrentWeiffenbach/moveit_planar_execution.git
 [submodule "kobuki_msgs"]
 	path = kobuki_msgs
 	url = https://github.com/yujinrobot/kobuki_msgs.git
     ignore = dirty
 [submodule "moveit"]
 	path = moveit
-	url = https://github.com/moveit/moveit.git
-    ignore = dirty
+	url = https://github.com/BrentWeiffenbach/moveit_planar_modification.git
 [submodule "moveit_msgs"]
 	path = moveit_msgs
 	url = https://github.com/moveit/moveit_msgs.git
