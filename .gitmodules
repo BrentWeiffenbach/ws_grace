@@ -18,9 +18,9 @@
 [submodule "grace_arm_control"]
 	path = grace_arm_control
 	url = https://github.com/BrentWeiffenbach/grace_arm_control.git
-[submodule "moveit_planar_execution"]
-	path = moveit_planar_execution
-	url = https://github.com/BrentWeiffenbach/moveit_planar_execution.git
+[submodule "grace_planar_execution"]
+	path = grace_planar_execution
+	url = https://github.com/BrentWeiffenbach/grace_planar_execution.git
 [submodule "kobuki_msgs"]
 	path = kobuki_msgs
 	url = https://github.com/yujinrobot/kobuki_msgs.git
